@@ -5,6 +5,7 @@
     margin: 0.2em;
     display: flex;
     cursor: default;
+    min-width: 100px;
 }
 
 .memory > .card.hidden {

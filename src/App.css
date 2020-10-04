@@ -1,7 +1,7 @@
 .memory {
   display: flex;
   flex-wrap: wrap;
-  width: 400px;
+  width: 800px;
   margin: auto;
   user-select: none;
 }
